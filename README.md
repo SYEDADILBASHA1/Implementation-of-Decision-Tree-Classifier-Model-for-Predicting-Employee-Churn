@@ -67,22 +67,20 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## 2.data info:
 ![ex 6 2](https://github.com/SYEDADILBASHA1/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/134796157/3cac38b5-be41-45f6-a334-3b14ff8965f8)
 
-## 3.
+## 3. Optimization of null values:
 ![ex 6 3](https://github.com/SYEDADILBASHA1/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/134796157/5bed4675-c083-442a-8280-877632912ab9)
 
-## 4.Optimization of null values:
-![ex 06 4](https://github.com/SYEDADILBASHA1/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/134796157/1ca02460-6508-44db-978e-a484d71f1502)
-
-## 5.Assignment of x and y values:
+## 4.Assignment of x and y values:
 ![ex 06 5](https://github.com/SYEDADILBASHA1/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/134796157/8e3a5f9b-06c6-4c59-a136-1f4da2fe50ea)
 
-## 6.COnverting string literals to numerical values using label encoder:
+## 5.Converting string literals to numerical values using label encoder:
 ![ex 06 -6](https://github.com/SYEDADILBASHA1/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/134796157/76031f42-8c23-4ab8-945c-2f4fed323f5e)
 
-## 7.Accuracy:
-![ex 06 07](https://github.com/SYEDADILBASHA1/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/134796157/4dfe215b-dd7d-4e53-adb0-deb0949340ab)
+## 6.Accuracy:
+![Screenshot (2)](https://github.com/SYEDADILBASHA1/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/134796157/6efc2de3-3fcc-4a21-9313-5292d0118a37)
 
-## 8.Prediction:
+
+## 7.Prediction:
 ![ex 06 08](https://github.com/SYEDADILBASHA1/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/134796157/d3777dbf-6c84-4f19-8152-52206feb022e)
 
 
